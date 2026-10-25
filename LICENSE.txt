@@ -1,0 +1,8 @@
+Copyright (c) 2026 PreShiftIQ, Inc. All rights reserved.
+
+This repository describes a hosted service operated by PreShiftIQ, Inc. It contains no source code. No license is
+granted to copy, modify or redistribute its contents. Use of the PreShiftIQ service is governed by the
+Assistant-Surface Terms of Use (https://preshiftiq.com/assistant-surface-terms) and the Privacy Policy
+(https://preshiftiq.com/privacy-policy).
+
+PreShiftIQ is a trademark of PreShiftIQ, Inc.
